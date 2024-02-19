@@ -5,6 +5,6 @@ package org.example;
 public class Calculate {
 
     public calculate(int a,int b){
-        return a-b;
+        return a+b;
     }
 }
