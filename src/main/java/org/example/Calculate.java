@@ -3,10 +3,8 @@ package org.example;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    Scanner scanner = new Scanner(System.in);
-    int a= scanner.nextInt();
-    int b== scanner.nextInt();
-    public calculate(){
+
+    public calculate(int a,int b){
         return a-b;
     }
 }
